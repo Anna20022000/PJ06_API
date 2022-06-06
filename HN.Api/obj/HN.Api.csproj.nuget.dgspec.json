@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\HN\\HN.Api\\HN.Api.csproj": {}
+    "F:\\NAM_4_KI_II\\DATN\\API\\HN.Api\\HN.Api.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\HN\\HN.Api\\HN.Api.csproj": {
+    "F:\\NAM_4_KI_II\\DATN\\API\\HN.Api\\HN.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\HN\\HN.Api\\HN.Api.csproj",
+        "projectUniqueName": "F:\\NAM_4_KI_II\\DATN\\API\\HN.Api\\HN.Api.csproj",
         "projectName": "HN.Api",
-        "projectPath": "D:\\New folder\\HN\\HN.Api\\HN.Api.csproj",
-        "packagesPath": "C:\\Users\\MG-PC\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\HN\\HN.Api\\obj\\",
+        "projectPath": "F:\\NAM_4_KI_II\\DATN\\API\\HN.Api\\HN.Api.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\NAM_4_KI_II\\DATN\\API\\HN.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MG-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

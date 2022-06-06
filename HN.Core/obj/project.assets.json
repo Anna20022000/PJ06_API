@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MG-PC\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New folder\\HN\\HN.Core\\HN.Core.csproj",
+      "projectUniqueName": "F:\\NAM_4_KI_II\\DATN\\API\\HN.Core\\HN.Core.csproj",
       "projectName": "HN.Core",
-      "projectPath": "D:\\New folder\\HN\\HN.Core\\HN.Core.csproj",
-      "packagesPath": "C:\\Users\\MG-PC\\.nuget\\packages\\",
-      "outputPath": "D:\\New folder\\HN\\HN.Core\\obj\\",
+      "projectPath": "F:\\NAM_4_KI_II\\DATN\\API\\HN.Core\\HN.Core.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "F:\\NAM_4_KI_II\\DATN\\API\\HN.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MG-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
